@@ -1,1 +1,32 @@
 /* TODO: style the html */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orienta&display=swap');
+body{
+    background-color: darkred;
+}
+h1{
+    font-family:'Righteous' ;
+    font: cursive;
+    size: 45px;
+    font-weight: normal;
+    height: 60px;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+h2{
+    size: 30px;
+    height: 50px;
+   letter-spacing: -1px;
+   color: #dfbf84;
+   text-transform: uppercase;
+   text-align: center;
+}
+P{
+    font-family:'Orienta';
+    font: sans-serif;
+    size: 16px;
+    height: 24px;
+    color: #f6f6f6;
+    text-align: center;
+}
